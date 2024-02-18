@@ -1,0 +1,37 @@
+{"0": {
+    "doc": "About",
+    "title": "About",
+    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
+    "url": "/about/",
+    
+    "relUrl": "/about/"
+  },"1": {
+    "doc": "Bonus Points Distribution",
+    "title": "Bonus Points Distribution",
+    "content": "Whenever a player beats another player ranked in the current top 200, he/she receives Bonus Points in addition to Open Ranking Points. Bonus points are not awarded for the Women’s Rankings list. Bonus Points are only awarded for players directly beaten. In other words, the player has to be in the same pool as the beaten player, and the beaten player has to be eliminated from contention. If more than one division at a tournament counts toward the Open Rankings, divide the Bonus Points by the number of divisions. The exception to this rule is the FPA Worlds open divisions. Full bonus points are counted for both divisions. ",
+    "url": "/rankings-explained/bonus-points-distribution",
+    
+    "relUrl": "/rankings-explained/bonus-points-distribution"
+  },"2": {
+    "doc": "Rankings Explained",
+    "title": "Rankings Explained",
+    "content": "Every tournament uses the Regular point scales unless categorized differently by the FPA Board. A Regular tournament needs at least twenty total entrants to receive 100% of its points. Other point scales are proportionally higher or lower based on their impact/importance. Regular tournaments with 15-19 competitors are worth 80% of the base scale. Regular tournaments with 10-14 entrants are worth 65% of the base scale. Regular tournaments with 4-9 competitors are worth 50% of the base scale. Pro tournaments (currently WFDF, AFO and EFO) are worth 120% of the base scale. (For reference historically, WFDF and US Open championships at one time were worth 140% of the base scale) For all tournaments except FPAW, all open divisions share the allocated points. For instance, if a tournament hosts both pairs and co-op competitions, pairs receives 50% of the points and co-op the other 50%, and bonus points are similarly allocated. Points for pairs would be added to points for co-op to arrive at a player’s ranking points for the tournament. Open ranking points are only awarded for open division categories. Open rankings bonus points only are awarded for women’s and mixed pairs categories. Each division of the FPA Worlds is worth 160% of the base scale. Each division of the FPA Worlds is counted as a separate event toward the freestyle flying disc rankings. ",
+    "url": "/rankings-explained/explanation",
+    
+    "relUrl": "/rankings-explained/explanation"
+  },"3": {
+    "doc": "Ranking Points Distribution",
+    "title": "Ranking Points Distribution",
+    "content": "| Column1 | Column2 | Column3 | . | Item1 | Item1 | Item1 | . ",
+    "url": "/rankings-explained/ranking-points-distribution",
+    
+    "relUrl": "/rankings-explained/ranking-points-distribution"
+  },"4": {
+    "doc": "Rankings Explained",
+    "title": "Rankings Explained",
+    "content": "Explanation of the new ranking system . ",
+    "url": "/rankings-explained",
+    
+    "relUrl": "/rankings-explained"
+  }
+}
