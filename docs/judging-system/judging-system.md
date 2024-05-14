@@ -1,6 +1,5 @@
 ---
 title: Judging System
-has_children: true
 permalink: judging-system
 ---
 # The Judging System
